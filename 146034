@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head > 
+        <meta charset="utf-8" />
+        <title> Hassen degu</title>
+    </head> 
+ <h1>  <marquee><font color=“green” size="50" >
+     well come to hassen degu web page : እንኳን ደህና መጡ</font></marquee> </h1>
+<body style="background-color: gray;">
+<h2 style="background-color: blue;"> <b> hassen degu</b></h2><br>
+<h2 style="background-color: aqua;"> <b>  ugr/10065/13</b></h2>
+    <img src="http://www.22bole.com/JobsPortal/uploaded_images/49805705.jpg" border="4"alt="HTML tutorial" width="200" 
+height="200" /><br>
+
+<video  src="introduction to computer.3gp" width="200" height="100" controls></video>
+<figure>
+    <figcaption>Listen to the audio:</figcaption>
+    <audio
+        controls
+        src="/media/cc0-audio/t-rex-roar.mp3"> 
+    </audio>
+</figure>
+
+<br>
+<iframe src="default.asp"></iframe>
+<br>
+<frameset cols="180,*">frameset <br>
+    <frame src="content.htmy">frame
+    <frame src="link.htm" name="showframe">
+    </frameset>
+<br>
+<p>
+    <font size="10" face="Verdana">
+    This is a largest paragraph.
+    </font
+<br>
+<h2>This is a Heading 2</h2>
+<h3>This is a Heading 3</h3> 
+<h4>This is a Heading 4</h4>
+<h5>This is a Heading 5</h5>
+<h6>This is a Heading 6</h6>
+<dl>
+    <dt>Coffee</dt>
+       <dd>Black hot drink</dd>
+    <dt>Milk</dt>
+       <dd>White cold drink</dd>
+   </dl>
+    <p><b>This text is bold</b></p>
+     <p><strong>This text is strong</strong></p>
+   <p><big>This text is big</big></p>
+   <p><em>This text is emphasized</em></p>
+   <p><i>This text is italic</i></p>
+   <p><small>This text is small</small></p>
+   <p style="color: blue;"><b> H<sub> 2</sub>o</b> </p>
+   <p style="color: red;"><b></b> 2<sup>6 </sup></p>
+
+  
+   <hr>
+   <ol type="1"> <b> five top ethiopia city</b>
+    <br>
+    <li>addis abeba </li>
+    <li> adama </li>
+    <li>bahirdar </li>
+    <li>jima </li>
+    <li>hawasa </li>
+   </ol>
+   
+   <ul type="square"> this is un ordered list    <br>
+
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+   </ul>
+   <del>ths text is delet</del> <br>
+   <ins>under score</ins>
+   <p>Contact the author of this page:</p>
+   <p> this is google link <a href="https://about.google/">google.</a></p>
+<address>
+  <a href="http//:www.hassendegu2013@gmail.com">hassendegu2013</a><br>
+  <a href="tel:+25196478319">Hello</a>
+</address>
+   <pre>
+<h1><b>HHHHHHHHHHH</b></h1>
+<h1><b>TTTTTTTTTTT</b></h1>
+<h1><b>MMMMMMMMMMM</b></h1>
+<h1><b>LLLLLLLLLLL</b></h1>
+<h1><b>CODE</b></h1>
+    </pre> <br>
+   <h2>The task is 75% complete <progress max="100" value="75"></progress></h2>
+
+    <header>ethiopia</header>
+    <main>
+        <p>ethiopia is east afric country </p>
+        <p>that are never colonized by italy</p> 
+    </main>
+    
+    <code>Computer code</code>
+   <br />
+   <kbd>Keyboard input</kbd>
+   <br />
+    <tt>Teletype text</tt>
+   <br />
+  <samp>Sample text</samp>
+   <br />
+   <var>Computer variable</var>
+   <br />
+   <p>Several species of <mark>salamander</mark> inhabit the temperate rainforest of the Pacific Northwest.</p> <br>
+   <address> this is address tag</address>
+   <p>You can use <abbr>CSS</abbr> (Cascading Style Sheets) to style your code
+     <abbr>HTML</abbr> (HyperText Markup Language).</p>
+   <br />
+   <acronym title="World Wide Web">WWW</acronym><br>
+   <bdo dir="rtl">
+    Here is some backward text
+    bidirectional overloud
+    </bdo><br>
+    <u>speling</u> mistakes, 
+    so the writer can <u>corect</u> 
+    <blockquote>this is long quotation</blockquote>
+    <q>This is a short quotation</q>
+    <p><font size="5" face="Times" color="red">
+        This is another paragraph.
+        </font></p>
+<p> <b style="color: blue;"> ths is table example</b></p>
+            <table border="2" style="background-color:brown ">
+                <caption style="color: goldenrod;"> hassen info</caption>
+               <thead>
+                <tr>
+                 <td>first name</td>
+                 <td>last name</td>
+                 <td>id</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Hassen</td>
+                    <td>Degu</td>
+                    <td>10065</td>
+                   </tr>
+                </tbody>
+                <tfoot>
+                    <td colspan="3"> succesful </td>
+                </tfoot>
+                </table>
+                <form action="">
+                    I have a pen:
+                    <input type="checkbox" name="vehicle" value="pen">
+                    <br />
+                    I have a book:
+                    <input type="checkbox" name="vehicle" value="book">
+                    <br />
+                    I have an airplane:
+                    <input type="checkbox" name="vehicle" value="Airplane">
+                </form>
+
+                <form action="">
+                    <input type="button" value="Hello world!">
+                    </form>
+
+<fieldset style="color: blue;">
+   <legend> student data</legend>
+   <p>
+    <label> first name :
+<input type="text" name="Hassen">
+    </label>
+   </p> <p>
+    <label> first name :
+<input type="text" name="Degu">
+    </label>
+   </p>
+   <P>
+    male <input type="radio" name="sex" value="male" ><br>
+   female<input type="radio" name="sex" value="female">
+   </P>
+</fieldset><br>
+<link rel="stylesheet" type="text/css" href="styles.css" >
+
+<style type="text/css"></style>
+          <label for="story">Tell us your story:</label>
+
+                    <textarea id="story" name="story"
+                              rows="5" cols="33">
+                    It was a dark and stormy night...
+                    </textarea>
+
+         <button class="favorite styled"
+                    type="button">
+                Add to favorites
+            </button>
+            <map name="infographic">
+                <area shape="poly" coords="130,147,200,107,254,219,130,228"
+                      href="https://developer.mozilla.org/docs/Web/HTML"
+                      target="_blank" alt="HTML">
+                <area shape="poly" coords="130,147,130,228,6,219,59,107"
+                      href="https://developer.mozilla.org/docs/Web/CSS"
+                      target="_blank" alt="CSS">
+                <area shape="poly" coords="130,147,200,107,130,4,59,107"
+                      href="https://developer.mozilla.org/docs/Web/JavaScript"
+                      target="_blank" alt="JavaScript">
+            </map> <br><br>
+            <img usemap="#infographic" src="https://interactive-examples.mdn.mozilla.net/media/examples/mdn-info2.png" alt="not display this file">
+           <br>
+           <script type="text/javascript">
+                document.write("Hello World!")
+                </script>    <br>
+            <noframes>
+                <body>Your browser does not handle frames!</body>
+                </noframes>
+         <div id=“content”>
+                    <div id=“left”>
+                    <h2>sidebar</h2>
+                    <p>Some sample text</p>
+                    </div>
+                    <div id=“right”>
+                    <h1>My Great Webpage</h1>
+                    <hr>
+                    <p>Some sample text</p>
+                    </div>
+                    </div>
+                    
+                    <select>
+                        <option value=“ethiopia”>ethiopia</option>
+                        <option value=“California”>California</option>
+                        <option value=“Delaware”>Delaware</option>
+                        <option value=“Florida”>Florida</option>
+                        <option value=“Texas”>Texas</option>
+                        </select><br>
+                        <hx> Your text here </hx><br>
+                        <form action="/action_page.php" method="get">
+                            First name: <input type="text" name="fname"><br>
+                            Last name: <input type="text" name="lname"><br>
+                            <button type="submit" value="Submit">Submit</button>
+                            <button type="reset" value="Reset">Reset</button>
+                           </form>
+                           
+                       
+                 <!--    name    Assen Degu   id  ,10065
+
+           100 tags are :
+
+<!DOCTYPE html>  
+<hx></hx> 
+<section></section>
+<select ></select>
+<form ></form>
+<button></button>
+<iframe></iframe>       
+<frameset></frameset>
+<frame>
+<link >
+<script></script>
+<html></html> 
+<head></head> 
+<meta>
+<dir></dir>
+<div></div>
+<title>
+</title> 
+<body></body>
+<h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>
+<img >
+<base>
+<video ></video>
+  <figure></figure>
+  <figcapation></figcapation>
+  <audio></audio>
+  <a ></a>
+  <dt></dt>
+  <dd></dd>
+  <p></p>
+  <b></b>
+  <strong></strong>
+  <big></big>
+  <em></em>
+  <i></i>
+  <small></small>
+  <sub></sub>
+  <sup></sup>
+   <hr>,<br>
+   <li></li>
+   <ul></ul>
+   <del></del>
+   <ins></ins>
+   <noframes></noframes>
+   <address></address>
+   <pre></pre>
+   <kbd></kbd>
+   <tt></tt>
+   <code></code>
+   <samp></samp>
+   <var></var>
+   <abbr ></abbr>
+   ,<acronym ></acronym>
+   <bdo ></bdo>
+   <blockquote></blockquote>
+   <font></font>
+   <table></table>
+   <tr></tr>
+   <th></th>
+   <td></td>
+   <form ></form>
+   <input>
+   <label ></label>
+   <textarea ></textarea>
+   <button></button>
+   <u></u>  
+   <header></heade>
+    <main></main>
+<map >
+<area>
+<mark></mark>
+<caption></caption>
+<thead></thead>
+<tfoot></tfoot>
+<progress></progress>
+<style></style>
+<font></font>
+
+
+
+                         20 attributes : 
+    class
+    type
+    rows
+    cols
+    name
+    id
+    for
+    value
+    action
+    border
+    size
+    face
+    color
+    dir
+    title
+    href
+    charset
+    src
+   border
+   width
+   height
+   alt
+   style
+   lang
+
+    write the difference brtwene xhtml and html and there version ?
+
+
+
+XHTML is a combination of HTML and XML, 
+ whereas HTML5 is a version of HTML.
+XHTML has its own parsing requirements,
+ while HTML does not have any specific requirements and uses its own.
+In XHTML, all tags, if they are opened, then they should be closed.
+ HTML5 is less strict in this regard.
+HTML5 has a simpler charset and does not need to add type attributes and style elements.
+XHTML has restrictions in regards to tags, and they can be nested inside each other.
+ HTML has no such restrictions
+ XHTML conformance: XHTML 1.0 Transitional,
+  XHTML 1.0 Frameset, XHTML 1.0 Strict, 
+  and XHTML 1.1. The XHTML 1.1 specification is the strictest of these levels.
+   The XHTML 1.0 Frameset and Transitional specifications define XML-based HTML markup, 
+   but allow certain widely used constructs. 
+   Many existing Web pages can be made conformant with XHTML 1.0 Frameset or Transitional specifications, 
+   but cannot meet XHTML 1.0 Strict or XHTML 1.1 specifications without requiring substantial revision 
+   to replace functionality implemented using constructs that are not allowed in the specifications..-->
+                    
+   </body>
+   </html>
